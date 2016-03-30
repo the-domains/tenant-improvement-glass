@@ -1,7 +1,7 @@
 name: Tenant Improvement Glass
 favicon: null
 layout_spectrum: 0.5012
-typography_spectrum: 0.13868899480439723
+typography_spectrum: 0.49519
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.0794625822454691
   saturation: 0.625
   rhythmicContrast: 0.25
